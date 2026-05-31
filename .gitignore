@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+allure-results/
+reports/allure-report/
+reports/traces/
+*.zip
+.DS_Store
+.pytest_cache/
+__pycache__/
+venv/
+.env
+
+# Ignore raw local test results and generated reports
+allure-results/
+allure-report/
+reports/traces/
